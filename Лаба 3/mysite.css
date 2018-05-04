@@ -1,0 +1,18 @@
+.table-hover tbody tr:hover {
+	background-color: #7abf7b
+}
+.table-hover tbody tr {
+	background-color: #adffaf;
+}
+
+.table-hover thead tr {
+	background-color: #69c66b;
+}
+
+ul li a {
+	text-decoration: none;	
+}
+ul li a:hover {
+	text-decoration: none;	
+}
+
